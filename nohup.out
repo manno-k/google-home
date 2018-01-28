@@ -1,0 +1,73 @@
+*** WARNING *** The program 'node' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node>
+*** WARNING *** The program 'node' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node&f=DNSServiceRegister>
+Endpoints:
+    http://192.168.179.3:8091/google-home-notifier
+    https://8d5dd814.ngrok.io/google-home-notifier
+GET example:
+curl -X GET https://8d5dd814.ngrok.io/google-home-notifier?text=Hello+Google+Home
+POST example:
+curl -X POST -d "text=Hello Google Home" https://8d5dd814.ngrok.io/google-home-notifier
+*** WARNING *** The program 'node' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node>
+*** WARNING *** The program 'node' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node&f=DNSServiceRegister>
+Endpoints:
+    http://192.168.179.3:8091/google-home-notifier
+    https://e939a630.ngrok.io/google-home-notifier
+GET example:
+curl -X GET https://e939a630.ngrok.io/google-home-notifier?text=Hello+Google+Home
+POST example:
+curl -X POST -d "text=Hello Google Home" https://e939a630.ngrok.io/google-home-notifier
+{ text: 'Hello Google Home' }
+Device notified
+{}
+{}
+*** WARNING *** The program 'node' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node>
+*** WARNING *** The program 'node' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node&f=DNSServiceRegister>
+Endpoints:
+    http://192.168.179.3:8091/google-home-notifier
+    https://6b3ed7c3.ngrok.io/google-home-notifier
+GET example:
+curl -X GET https://6b3ed7c3.ngrok.io/google-home-notifier?text=Hello+Google+Home
+POST example:
+curl -X POST -d "text=Hello Google Home" https://6b3ed7c3.ngrok.io/google-home-notifier
+{ text: 'Hello Google Home' }
+Device notified
+*** WARNING *** The program 'node' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node>
+*** WARNING *** The program 'node' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node&f=DNSServiceRegister>
+Endpoints:
+    http://192.168.179.3:8091/google-home-notifier
+    https://87d9785e.ngrok.io/google-home-notifier
+GET example:
+curl -X GET https://87d9785e.ngrok.io/google-home-notifier?text=Hello+Google+Home
+POST example:
+curl -X POST -d "text=Hello Google Home" https://87d9785e.ngrok.io/google-home-notifier
+*** WARNING *** The program 'node' uses the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node>
+*** WARNING *** The program 'node' called 'DNSServiceRegister()' which is not supported (or only supported partially) in the Apple Bonjour compatibility layer of Avahi.
+*** WARNING *** Please fix your application to use the native API of Avahi!
+*** WARNING *** For more information see <http://0pointer.de/avahi-compat?s=libdns_sd&e=node&f=DNSServiceRegister>
+Endpoints:
+    http://192.168.179.3:8091/google-home-notifier
+    https://351eedb9.ngrok.io/google-home-notifier
+GET example:
+curl -X GET https://351eedb9.ngrok.io/google-home-notifier?text=Hello+Google+Home
+POST example:
+curl -X POST -d "text=Hello Google Home" https://351eedb9.ngrok.io/google-home-notifier
+{ text: 'Hello Google Home' }
+Device notified

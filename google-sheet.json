@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+    "project_id": "southern-ring-161008",
+      "private_key_id": "1815cd648142d01336c49f7bf8f6d19faa1f6a15",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCobl58zvyLHvni\n3dH06WVL4OHbqW3u0Hv400rW1sPp35iC/cQbZIHZWKKcVRzhlUzkE6GbAn33YJVO\nIXaH89wXsuf3tHrSQKoooFviCFAgs7qkwn6v2CV9d2Ip6G+OZBoV4ospZ9ADWvbO\nmkRl4tHLPUnSL9AoxY80xdSoL+2XUL5aMgkYXUzX64CQ48MIVGNk+c1JxOaumTbk\nP393xqk+YFJ2UASKME2hYg8ldNuRlkcqRW/+O2wIxs2N0Wd1FxCN7dAzcWsz5Fhz\nEGx8//5vdXVV1PKUux3lZ7T85eYmjyUylqi2yY6iCpEOC1isDFoqEStWDS4+4nvt\n2Elco08pAgMBAAECggEACNfOmdfri3RYuKVec3DY6CcfmemnLhgqbMcke+tyWseU\nrsqbBA3UAXDKt3wtKYIuCMrSZnHhjN44cziE4XYXXUkqg6dT9tD9U2e5RetGJbQP\nUxIrwO4PaIB0RMYBgWTWYnAZUAG1eqTz0Kdp0D2cjS1OaxImktVt2N6gH8/FtiF/\nJVpKEOQjTiGZ7DX/7tsRrZT+YEyJMbcdENfzar98KUGX3AAHX0qnit1y3TOljHgR\n6MC3n/ImgmsAP4dvZrq7x+LyRtld61NmqkOtZH93nEYtUeB4FaxkKZvCR46UZcsT\n2vGE+KEcxkalllzaVCHM7BNWLmOBreV+eykjhwjehwKBgQDU1CdbL7NY8B4aIjbw\nGhFmGiZlcLyVI4wZbRHCin9oRCIsFpK2JYVWSV6PdcJya7RNbkqX/pcZjHJ9zpBL\nG8QbYwrwX8J/gAzlpsPSqwtcPnaErVBeK0beURctzMEPmEV3no5mjUhHXssf7pzM\nQm71YfAK7CT0WLaZ8Fc55HTp3wKBgQDKmLiYxAGk3z2neO+M8WLnnjp9o0Wv5tBY\nmtPkbmIOo9UWcgAwf2ArMxY7DZCaEfWW0ctsJ7xYMm+3PG6co/Ztaiv8TOIwA0C2\nqfNFcwGPDW+QK0ro5UVWrkYYdN0B+l5v6TfFAmBgK558hIvygPEzr8TNGwD1lPAZ\nPve9esF39wKBgHBHFBQpEAaldlv3HOCCABfLR+JQHUzYmfp37dyh0CEjgJudtPxe\nwv8IadhpGZHffBk1TCjvaKtTyrrQFJNrLIP+NjElc6hr12H4HmqvTaj2UvQfsrxb\nPGHgicfhsyAVBuDaRumXM0Bjo+lOqm2fxoWxiz9X4Q7/FiYUAxBJk9wlAoGAW0vZ\nG9ZwGzkSko6X/L6mYFPYbdeOxsbPqq4SwITRoWFI3DWBSlmMH8uEwBXLzPI85rsh\n3VpGsMQBveP4wJPOr93Bdo+6+gHtPqN1Yh2CXVGjrackubDfv0EHi2vWUFbgCbRi\nEmCQx6XAZMJiQmTCzRTvLbJ2izSTwfyzLWrNFl8CgYAeWS5UI9PEioTAOzL9TWP+\ns6L51wZre8rCaiEwIPPmsSOjetmDkNDnn1YbpUKJrHxdKopGWvWiBWH50NLMoCDZ\nhH/TQbE/6KXDFM4KpruodHBHjbVpN1iYvm7N0XK8knNyU0cwY+hWxpb0+opWrPTN\nN1QqrueD2BmyPiAUMhdNDA==\n-----END PRIVATE KEY-----\n",
+          "client_email": "google-home@southern-ring-161008.iam.gserviceaccount.com",
+            "client_id": "118085729672507416124",
+              "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+                "token_uri": "https://accounts.google.com/o/oauth2/token",
+                  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+                    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-home%40southern-ring-161008.iam.gserviceaccount.com"
+                    }
